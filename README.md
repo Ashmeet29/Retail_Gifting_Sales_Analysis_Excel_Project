@@ -1,6 +1,6 @@
-#Retail_Gifting_Sales_Analysis_Excel_Project -   FERNS AND PETALS#
+#Retail_Gifting_Sales_Analysis_Excel_Project -   FERNS AND PETALS
 
-##Overview:##
+##Overview:
 
 This project provides a comprehensive analysis of sales data for FNP (Ferns And Petals), leveraging visualizations to uncover key insights into revenue, customer behaviour and product performance. The dashboard integrates data from various sources, including Customers details, Orders and Products to present actionable trends and recommendations for strategic decision-making.
 
