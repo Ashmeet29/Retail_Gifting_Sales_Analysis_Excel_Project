@@ -54,23 +54,34 @@ Provide documentation and training for stakeholders to use the dashboard effecti
 
 ### 1) Overall Performance:
 Total Orders: 1,000
+
 Total Revenue: ₹3,520,984
+
 Average Customer Spend: ₹3,520.98
+
 Average Order-Delivery Time: 5.53 days
 
 ### 2) Revenue Analysis:
 By Occasion: Revenue is highest for “Anniversary” and “Valentine’s Day” indicating the importance of targeting these events.
+
 By Category: The "Colors" category (e.g., flowers, decorations) generated the most revenue (₹1,005,645), followed by "Cakes" (₹329,862).
+
 By Month: February leads in revenue (₹704,509), aligning with Valentine’s Day, while April shows a significant dip (₹140,393).
+
 By Hour: Revenue peaks during late morning and early evening hours, suggesting optimal marketing times.
 
+
 ### 3) Product Performance:
-   (Top 5 Products)-
-   ~ Magnam Set: ₹121,905
-   ~ Dolores Gift: ₹106,624
-   ~ Harum Pack: ₹101,556
-   ~ Deserunt Box: ₹97,665
-   ~ Quia Gift: ₹114,476
+   (Top 5 Products)
+   - Magnam Set: ₹121,905
+     
+   - Dolores Gift: ₹106,624
+     
+   - Harum Pack: ₹101,556
+     
+   - Deserunt Box: ₹97,665
+     
+   - Quia Gift: ₹114,476
 
 ### 4) Geographical Trends:
 Top Cities by Orders- Imphal, North Dumdum, and Bhatar lead in sales volume, suggesting regional preferences for promotional targeting.
@@ -83,10 +94,12 @@ Top Cities by Orders- Imphal, North Dumdum, and Bhatar lead in sales volume, sug
  
  ### 1) Optimize Product Offerings:
   - Enhance inventory and marketing for high-performing categories such as “Colors” and “Cakes.”
+    
   - Focus promotions on top-performing products like the "Magnam Set" and "Dolores Gift."
 
 ### 2) Seasonal Campaigns:
  - Allocate additional resources and marketing budget for February and occasions like Valentine’s Day, Anniversary, and Raksha Bandhan.
+   
  - Address dips in revenue during off-peak months such as April by introducing targeted campaigns or discounts.
 
 ### 3) Geographical Targeting:
@@ -95,6 +108,7 @@ Top Cities by Orders- Imphal, North Dumdum, and Bhatar lead in sales volume, sug
 
 ### 4) Customer Engagement:
 - Leverage peak order times (late morning and early evening) to run time-sensitive promotions.
+  
 - Utilize Sunday and Tuesday trends for special offers or events to boost engagement.
 
 ### 5) Operational Improvements:
