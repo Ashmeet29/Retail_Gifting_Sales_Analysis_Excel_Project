@@ -15,6 +15,7 @@ Ferns N Petals (FNP) operates in a highly competitive market for gifting and spe
 5) By addressing these challenges, FNP aims to strengthen its market position, increase revenue, and build long-term customer loyalty.
 
 Business Requirements:
+
 To address the business challenges effectively, the following requirements are identified for the project:
 1) Data Integration:
 Consolidate sales, customer, product, and delivery data from various sources into a unified database for analysis.
@@ -49,6 +50,7 @@ Ensure the dashboard and analytics framework can accommodate future data growth 
 Provide documentation and training for stakeholders to use the dashboard effectively.
 
 Key Insights:
+
 1) Overall Performance:
 Total Orders: 1,000
 Total Revenue: ₹3,520,984
@@ -77,6 +79,7 @@ Top Cities by Orders- Imphal, North Dumdum, and Bhatar lead in sales volume, sug
   Higher order volumes on Sundays and Tuesdays indicate potential days for focused campaigns.
 
  Recommendations: 
+ 
  1) Optimize Product Offerings:
   - Enhance inventory and marketing for high-performing categories such as “Colors” and “Cakes.”
   - Focus promotions on top-performing products like the "Magnam Set" and "Dolores Gift."
@@ -97,6 +100,7 @@ Top Cities by Orders- Imphal, North Dumdum, and Bhatar lead in sales volume, sug
 - Aim to reduce the average delivery time (currently 5.53 days) to enhance customer satisfaction and repeat purchases.
 
 Conclusion:
+
 This analysis highlights the critical drivers of FNP’s revenue and provides actionable insights to enhance sales, streamline operations, and improve customer experience. By focusing on high-performing categories, optimizing regional strategies, and addressing operational inefficiencies, FNP can sustain growth and expand its market presence effectively.
 
 
