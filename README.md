@@ -17,53 +17,54 @@ Ferns N Petals (FNP) operates in a highly competitive market for gifting and spe
 ## Business Requirements:
 
 To address the business challenges effectively, the following requirements are identified for the project:
-1) Data Integration:
+
+### 1) Data Integration:
 Consolidate sales, customer, product, and delivery data from various sources into a unified database for analysis.
 Ensure data accuracy, completeness, and consistency across all datasets.
 
-2) Dashboard Development:
+### 2) Dashboard Development:
 Create an intuitive and interactive dashboard that visualizes key metrics such as revenue, orders, customer behavior, and product performance.
 Include filtering options for occasions, categories, time periods, and geographical locations.
 
-3) Performance Metrics:
+### 3) Performance Metrics:
 Define and track key performance indicators (KPIs) like total revenue, average order value, delivery time, and customer acquisition costs.
 Provide insights into peak performance periods (e.g., specific months, days, or hours).
 
-4) Product and Category Analysis:
+### 4) Product and Category Analysis:
 Identify high-performing products and categories to prioritize inventory and marketing efforts.
 Highlight underperforming areas for potential improvement.
 
-5) Customer Insights:
+### 5) Customer Insights:
 Analyze customer spending patterns and preferences to design personalized marketing campaigns.
 Identify trends in regional demand to optimize offerings and expand into high-potential markets.
 
-6) Operational Efficiency:
+### 6) Operational Efficiency:
 Assess order-delivery times and identify bottlenecks to improve logistics and customer satisfaction.
 Provide recommendations to streamline operations and reduce delivery delays.
 
-7) Actionable Recommendations:
+### 7) Actionable Recommendations:
 Generate insights to support strategic decisions, such as pricing strategies, promotional planning, and product development.
 Present opportunities for revenue growth during off-peak months and in underperforming regions.
 
-8) Scalability and Maintenance:
+### 8) Scalability and Maintenance:
 Ensure the dashboard and analytics framework can accommodate future data growth and evolving business needs.
 Provide documentation and training for stakeholders to use the dashboard effectively.
 
 ## Key Insights:
 
-1) Overall Performance:
+### 1) Overall Performance:
 Total Orders: 1,000
 Total Revenue: ₹3,520,984
 Average Customer Spend: ₹3,520.98
 Average Order-Delivery Time: 5.53 days
 
-2) Revenue Analysis:
+### 2) Revenue Analysis:
 By Occasion: Revenue is highest for “Anniversary” and “Valentine’s Day” indicating the importance of targeting these events.
 By Category: The "Colors" category (e.g., flowers, decorations) generated the most revenue (₹1,005,645), followed by "Cakes" (₹329,862).
 By Month: February leads in revenue (₹704,509), aligning with Valentine’s Day, while April shows a significant dip (₹140,393).
 By Hour: Revenue peaks during late morning and early evening hours, suggesting optimal marketing times.
 
-3) Product Performance:
+### 3) Product Performance:
    (Top 5 Products)-
    ~ Magnam Set: ₹121,905
    ~ Dolores Gift: ₹106,624
@@ -71,32 +72,32 @@ By Hour: Revenue peaks during late morning and early evening hours, suggesting o
    ~ Deserunt Box: ₹97,665
    ~ Quia Gift: ₹114,476
 
-4) Geographical Trends:
+### 4) Geographical Trends:
 Top Cities by Orders- Imphal, North Dumdum, and Bhatar lead in sales volume, suggesting regional preferences for promotional targeting.
 
-5) Customer Behavior:
+### 5) Customer Behavior:
   Customers spend an average of ₹3,520.98 per order.
   Higher order volumes on Sundays and Tuesdays indicate potential days for focused campaigns.
 
  ## Recommendations: 
  
- 1) Optimize Product Offerings:
+ ### 1) Optimize Product Offerings:
   - Enhance inventory and marketing for high-performing categories such as “Colors” and “Cakes.”
   - Focus promotions on top-performing products like the "Magnam Set" and "Dolores Gift."
 
-2) Seasonal Campaigns:
+### 2) Seasonal Campaigns:
  - Allocate additional resources and marketing budget for February and occasions like Valentine’s Day, Anniversary, and Raksha Bandhan.
  - Address dips in revenue during off-peak months such as April by introducing targeted campaigns or discounts.
 
-3) Geographical Targeting:
+### 3) Geographical Targeting:
 - Expand offerings and advertising in top-performing cities like Imphal and North Dumdum to maximize revenue potential.
 - Identify underperforming cities to implement localized strategies.
 
-4) Customer Engagement:
+### 4) Customer Engagement:
 - Leverage peak order times (late morning and early evening) to run time-sensitive promotions.
 - Utilize Sunday and Tuesday trends for special offers or events to boost engagement.
 
-5) Operational Improvements:
+### 5) Operational Improvements:
 - Aim to reduce the average delivery time (currently 5.53 days) to enhance customer satisfaction and repeat purchases.
 
 ## Conclusion:
