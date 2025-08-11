@@ -4,7 +4,7 @@
 
 This project provides a comprehensive analysis of sales data for FNP (Ferns And Petals), leveraging visualizations to uncover key insights into revenue, customer behaviour and product performance. The dashboard integrates data from various sources, including Customers details, Orders and Products to present actionable trends and recommendations for strategic decision-making.
 
-## INTRODUCTION TO BUSINESS PROBLEM:
+## Introduction To Business Problem:
 
 Ferns N Petals (FNP) operates in a highly competitive market for gifting and special occasion services. With diverse product offerings like cakes, flowers, and personalized gifts, the business faces challenges in optimizing its product portfolio, identifying seasonal and regional demand patterns, and enhancing operational efficiency. The primary business problem revolves around maximizing revenue while improving customer satisfaction and streamlining delivery processes. This requires:
 
