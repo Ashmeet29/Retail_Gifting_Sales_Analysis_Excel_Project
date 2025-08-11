@@ -1,10 +1,10 @@
-#Retail_Gifting_Sales_Analysis_Excel_Project -   FERNS AND PETALS
+# Retail_Gifting_Sales_Analysis_Excel_Project -   FERNS AND PETALS
 
-##Overview:
+## Overview:
 
 This project provides a comprehensive analysis of sales data for FNP (Ferns And Petals), leveraging visualizations to uncover key insights into revenue, customer behaviour and product performance. The dashboard integrates data from various sources, including Customers details, Orders and Products to present actionable trends and recommendations for strategic decision-making.
 
-##INTRODUCTION TO BUSINESS PROBLEM:##
+## INTRODUCTION TO BUSINESS PROBLEM:
 
 Ferns N Petals (FNP) operates in a highly competitive market for gifting and special occasion services. With diverse product offerings like cakes, flowers, and personalized gifts, the business faces challenges in optimizing its product portfolio, identifying seasonal and regional demand patterns, and enhancing operational efficiency. The primary business problem revolves around maximizing revenue while improving customer satisfaction and streamlining delivery processes. This requires:
 
@@ -14,7 +14,7 @@ Ferns N Petals (FNP) operates in a highly competitive market for gifting and spe
 4) Leveraging customer and regional data to drive personalized marketing and expansion efforts.
 5) By addressing these challenges, FNP aims to strengthen its market position, increase revenue, and build long-term customer loyalty.
 
-##Business Requirements:##
+## Business Requirements:
 
 To address the business challenges effectively, the following requirements are identified for the project:
 1) Data Integration:
@@ -49,7 +49,7 @@ Present opportunities for revenue growth during off-peak months and in underperf
 Ensure the dashboard and analytics framework can accommodate future data growth and evolving business needs.
 Provide documentation and training for stakeholders to use the dashboard effectively.
 
-##Key Insights:##
+## Key Insights:
 
 1) Overall Performance:
 Total Orders: 1,000
@@ -78,7 +78,7 @@ Top Cities by Orders- Imphal, North Dumdum, and Bhatar lead in sales volume, sug
   Customers spend an average of ₹3,520.98 per order.
   Higher order volumes on Sundays and Tuesdays indicate potential days for focused campaigns.
 
- ##Recommendations:## 
+ ## Recommendations: 
  
  1) Optimize Product Offerings:
   - Enhance inventory and marketing for high-performing categories such as “Colors” and “Cakes.”
@@ -99,7 +99,7 @@ Top Cities by Orders- Imphal, North Dumdum, and Bhatar lead in sales volume, sug
 5) Operational Improvements:
 - Aim to reduce the average delivery time (currently 5.53 days) to enhance customer satisfaction and repeat purchases.
 
-##Conclusion:##
+## Conclusion:
 
 This analysis highlights the critical drivers of FNP’s revenue and provides actionable insights to enhance sales, streamline operations, and improve customer experience. By focusing on high-performing categories, optimizing regional strategies, and addressing operational inefficiencies, FNP can sustain growth and expand its market presence effectively.
 
